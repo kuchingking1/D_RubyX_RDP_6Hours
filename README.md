@@ -17,9 +17,9 @@
 
 > Press Add secret 
 
-> Go to Action> CI> Run workflow
+> Go to Action> GetDrive> Run workflow
 
-> Refresh Web and go to CI> build
+> Refresh Web and go to GetDrive> build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
