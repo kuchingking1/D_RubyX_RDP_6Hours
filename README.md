@@ -23,7 +23,5 @@
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
-## Video
-[![VPS_RDP_Github](https://www.youtube.com/s/desktop/f7d4cb0d/img/favicon_144x144.png)](https://youtu.be/H-cbUgKNeI8)
 ### WARN
 THIS IS ONLY FOR EDUCATIONAL PURPOSES DON'T USE FOR MINING OR ILLEGAL USE
